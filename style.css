@@ -1,0 +1,69 @@
+.content{
+background-color: white;
+border:3px black solid;
+/*margin: 60px;*/
+padding: 20px;
+width:800px;
+margin-top:50px;
+margin-left: auto;
+margin-right: auto;
+}
+#interests{
+background-color: white;
+border:3px #FF7B63 dotted;
+padding: 20px;
+width:800px;
+margin-top:50px;
+margin-left: auto;
+margin-right: auto;
+}
+h2{
+color:black;
+font-size: 18px;
+font-family: Georgia;
+}
+body{
+background-image:url('images/landscape.jpg');
+background-size: 100%;
+background-attachment: fixed;
+background-position: fixed;
+background-repeat: no-repeat;
+}
+h1{
+color:#FF7B63;
+}
+p{
+color:#333333;	
+}
+li{
+color:#333333;
+}
+.links{
+border:3px #24331E solid;
+border-radius: 5px;
+display: block;
+height:40px;
+padding: 10px;
+text-align: center;
+}
+a:link{
+text-decoration: none;
+color:#FF7B63;
+font-size: 30px;
+}
+a:hover{
+font-size: 40px;
+}
+a:visited{
+color:#24331E;
+}
+.contactinfo{
+color:black;
+border: 2px solid orange;
+}
+.subheading{
+font-weight:bold;
+}
+.right{
+	float: right;
+}
